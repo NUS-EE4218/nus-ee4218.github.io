@@ -31,7 +31,7 @@ Please follow the following procedure.
 
 ### Submission Info
 
-Assignment 3 (<span style="color: brown;">**6**</span> marks)
+Assignment 3 (**6** marks)
 
 Demonstrate in **week 7**.
 

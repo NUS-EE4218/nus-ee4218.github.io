@@ -2,6 +2,7 @@ site_name: EE4218 Labs
 site_url: https://nus-ee4218.github.io
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.tooltips
   font:
